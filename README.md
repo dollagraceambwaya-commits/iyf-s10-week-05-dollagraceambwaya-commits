@@ -1,6 +1,6 @@
 # iyf-s10-week-05-dollagraceambwaya-commits
 
-# To-Do List (DOM Manipulation)
+## To-Do List (DOM Manipulation)
 
 ## Overview
 This project is part of **Season 10 – Week 5 DOM Manipulation** at IYF Weekend Academy.  
