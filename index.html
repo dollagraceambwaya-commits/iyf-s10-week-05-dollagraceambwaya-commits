@@ -26,6 +26,18 @@
             <p class="content">This is the first paragraph.</p>
             <p class="content">This is the second paragraph.</p>
         </article>
+
+        <div data-id="123" data-category="tech">Sample element </div>
+
+        <div id="grandparent">
+    Grandparent
+    <div id="parent">
+        Parent
+        <div id="child">
+            Child
+        </div>
+    </div>
+</div>
         
         <section>
             <h2>Form Section</h2>
@@ -35,7 +47,13 @@
                 <button type="submit">Submit</button>
             </form>
         </section>
-        
+<!-- Build: Delegated Task List Create a task list where: -->
+        <h2>Task List</h2>
+        <input id="new-task" type="text" placeholder="New Task">
+        <button id="add-task">Add Task</button>
+        <ul id="task-list">
+            <li>Sample Task <button class="delete">Delete</button></li>
+        </ul>
     </main>
     
     <footer>
