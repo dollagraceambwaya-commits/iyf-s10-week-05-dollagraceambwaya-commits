@@ -1,8 +1,8 @@
 # iyf-s10-week-05-dollagraceambwaya-commits
 
-# 📝 To-Do List (DOM Manipulation)
+# To-Do List (DOM Manipulation)
 
-## 📌 Overview
+## Overview
 This project is part of **Season 10 – Week 5 DOM Manipulation** at IYF Weekend Academy.  
 It demonstrates how to use **JavaScript DOM methods** to create, update, and delete elements dynamically in a web application.
 
