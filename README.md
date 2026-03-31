@@ -51,6 +51,27 @@ The app allows users to:
 2. Type a task in the input field and click **Add**.  
 3. Use the filter buttons to view **All**, **Active**, or **Completed** tasks.  
 
+## Challenges Faced
+
+While building this To‑Do List app, I encountered a few challenges:
+
+1. **Filter buttons not clickable**  
+   - At first, the **Active** and **Completed** buttons did not work.  
+   - The issue was caused by using the wrong selector (`.filter button`) instead of targeting the buttons directly with `.filter`.  
+   - Fixing the selector and event listeners solved the problem.
+
+2. **Tasks not adding correctly**  
+   - Initially, tasks were not being added to the list.  
+   - This was due to missing `preventDefault()` in the form submission and not trimming the input value.  
+   - After correcting the form logic, tasks could be added successfully.
+
+---
+
+## Lessons Learned
+- Always double‑check **DOM selectors** to ensure they match the HTML structure.  
+- Use **console.log()** and debugging to trace why events aren’t firing.  
+- Small details like `preventDefault()` and `trim()` can make a big difference in functionality.
+
 
 
 ## Learning Outcome
