@@ -1,6 +1,9 @@
-# iyf-s10-week-05-dollagraceambwaya-commits
+# Week 5: DOM Manipulation
 
-## To-Do List (DOM Manipulation)
+## Author
+- **Name:** Dolla Grace Ambwaya
+- **GitHub:** [@dollagraceambwaya-commits](https://github.com/dollagraceambwaya-commits)
+- **Date:** 31 March 2026
 
 ## Overview
 This project is part of **Season 10 – Week 5 DOM Manipulation** at IYF Weekend Academy.  
