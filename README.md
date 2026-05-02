@@ -1,6 +1,6 @@
-# Week 5: DOM Manipulation
+![Week 5: DOM Manipulation](https://img.shields.io/badge/Week%205-DOM%20Manipulation%20✅-brightgreen?style=for-the-badge)
 
-## Author
+# Author
 - **Name:** Dolla Grace Ambwaya
 - **GitHub:** [@dollagraceambwaya-commits](https://github.com/dollagraceambwaya-commits)
 - **Date:** 31 March 2026
